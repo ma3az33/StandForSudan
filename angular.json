@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "StandforSudanAngular"
+    }
+  },
+  "defaultProject": "StandforSudanAngular",
+  "cli": {
+    "analytics": false
+  }
 }
